@@ -1,0 +1,13 @@
+E:\workPlace\weChatPb\src\main\java\cc\weChatPb\entity\User.java
+E:\workPlace\weChatPb\src\main\java\cc\weChatPb\enums\ResultEnum.java
+E:\workPlace\weChatPb\src\main\java\cc\weChatPb\service\UserService.java
+E:\workPlace\weChatPb\src\main\java\cc\weChatPb\service\impl\WeChatServiceImpl.java
+E:\workPlace\weChatPb\src\main\java\cc\weChatPb\config\WechatMpConfig.java
+E:\workPlace\weChatPb\src\main\java\cc\weChatPb\controller\WeiXinController.java
+E:\workPlace\weChatPb\src\main\java\cc\weChatPb\controller\WeChatController.java
+E:\workPlace\weChatPb\src\main\java\cc\weChatPb\configuration\RestTemplateConfig.java
+E:\workPlace\weChatPb\src\main\java\cc\weChatPb\controller\UserController.java
+E:\workPlace\weChatPb\src\main\java\cc\weChatPb\mapper\UserMapper.java
+E:\workPlace\weChatPb\src\main\java\cc\weChatPb\exception\MyException.java
+E:\workPlace\weChatPb\src\main\java\cc\weChatPb\service\impl\UserServiceImpl.java
+E:\workPlace\weChatPb\src\main\java\cc\weChatPb\service\WeChatService.java

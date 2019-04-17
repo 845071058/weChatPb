@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="cc.weChatPb.mapper.UserMapper" >
+  <select id="findAllUser" resultType="cc.weChatPb.entity.User">
+  	select userId as userId,
+  	userName as userName,
+  	userPwd as userPwd
+  	 from userinfo
+  </select>
+</mapper>

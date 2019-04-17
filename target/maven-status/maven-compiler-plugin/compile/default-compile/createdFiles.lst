@@ -1,0 +1,11 @@
+cc\weChatPb\service\impl\UserServiceImpl.class
+cc\weChatPb\configuration\RestTemplateConfig.class
+cc\weChatPb\controller\WeiXinController.class
+cc\weChatPb\service\UserService.class
+cc\weChatPb\controller\UserController.class
+cc\weChatPb\controller\WeChatController.class
+cc\weChatPb\service\impl\WeChatServiceImpl.class
+cc\weChatPb\entity\User.class
+cc\weChatPb\service\WeChatService.class
+cc\weChatPb\mapper\UserMapper.class
+cc\weChatPb\config\WechatMpConfig.class
